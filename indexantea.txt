@@ -1,0 +1,9 @@
+<!DOCTYPE html>  
+<html>
+<head>  
+<title>Antea Cop</title>  
+</head> 
+<body>
+<h1>Kolegij Digitalni multimedij 1 </h1>
+</body> 
+</html>
